@@ -1,0 +1,12 @@
+IndexBest:2
+BestFitness:7.3736
+
+IndexBest:2
+BestFitness:3.31178
+
+IndexBest:20
+BestFitness:1.63445
+
+IndexBest:16
+BestFitness:4.75249
+
